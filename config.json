@@ -7,7 +7,7 @@
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "download.jpg",
     "BotKey": "your key",
     "OpenAIKey": "your openai key",
     "audio_di_bagian_menu": "./menu.mp3",
